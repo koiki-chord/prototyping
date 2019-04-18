@@ -1,0 +1,24 @@
+{
+  "id": "e5d654bf-9212-464c-8552-de1c0d217aee",
+  "author": {
+    "id": "0518d576-728c-45bd-9030-1519fde32299",
+    "alias": "nabnab",
+    "displayName": "ナブナブ",
+    "iconUrl": "https://hogehoge.com/images/nabnab.png"
+  },
+  "message": "今度のkoiki、${{ dates[0] }}に${{ places[0] }}でやるのはどう?\n都合が悪ければ${{ dates[1] }}とかでも。",
+  "eventData": {
+    "dates": [{ "yyyy-mm-dd": "2019-04-01" }, { "yyyy-mm-dd": "2019-04-08" }],
+    "places": [
+      {
+        "id": "f0a879a9-67e1-4e01-98ee-b54bb4d3c36d",
+        "name": "LODGE",
+        "location": {
+          "lat": 35.6797349,
+          "long": 139.7348855,
+          "address": "東京都千代田区紀尾井町１−２ 17F"
+        }
+      }
+    ]
+  }
+}

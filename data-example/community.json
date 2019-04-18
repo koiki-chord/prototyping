@@ -1,0 +1,27 @@
+{
+  "id": "content01",
+  "title": "Java Study session",
+  "description": "This is description for this content",
+  "images": [
+    {
+      "id": "image01",
+      "url": "https://chord.koiki.dev/content01-01.png"
+    }
+  ],
+  "tags": [
+    {
+      "id": "tag01",
+      "name": "Java"
+    },
+    {
+      "id": "tag02",
+      "name": "Studysession"
+    },
+    {
+      "id": "tag03",
+      "name": "Spring"
+    }
+  ],
+  "activeness" : "ACTIVE",
+  "memberCount": 1234
+}
