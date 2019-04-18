@@ -3,7 +3,7 @@
   "author": {
     "id": "0518d576-728c-45bd-9030-1519fde32299",
     "alias": "nabnab",
-    "displayName": "ナブナブ",
+    "comment": "ナブってください♡",
     "iconUrl": "https://hogehoge.com/images/nabnab.png"
   },
   "message": "今度のkoiki、${{ dates[0] }}に${{ places[0] }}でやるのはどう?\n都合が悪ければ${{ dates[1] }}とかでも。",

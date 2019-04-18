@@ -5,7 +5,8 @@
   "images": [
     {
       "id": "image01",
-      "url": "https://chord.koiki.dev/content01-01.png"
+      "url": "https://chord.koiki.dev/content01-01.png",
+      "order": 0
     }
   ],
   "tags": [
